@@ -1,5 +1,5 @@
 # Advanced ML course (ITMO)
-The project contains solutions for some labs from the [advanced machine learning course](course) made at ITMO.
+The project contains solutions for some labs from the [advanced machine learning course][course] made at ITMO.
 To make environment and install dependencies:
 ```sh
 ./setup.sh
